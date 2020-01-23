@@ -4,6 +4,7 @@ fn sort_array_by_parity(a: Vec<i32>) -> Vec<i32> {
      return x;   
 }
 
+
 fn main() {
     let vec = vec![3,1,2,4];
     let v1 = sort_array_by_parity(vec);
